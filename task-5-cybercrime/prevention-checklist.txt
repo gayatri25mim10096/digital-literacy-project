@@ -1,0 +1,23 @@
+Stay Safe Online
+
+1. General Safety Tips
+
+•	The sender of a message should also be checked by email before any message is relied upon.
+•	Do not open unrecognized or suspicious links that come through e-mail or SMS.
+•	Do not reveal your passwords, OTPs or any personal information to anyone.
+•	Use strong and distinctive passwords to different accounts.
+•	Turn on a two factor Authentication (2FA) on all significant accounts.
+•	Do not use open Wi-Fi to log into important accounts.
+•	Only download apps and other software on official websites or app stores.
+•	Change your passwords and security requirements regularly.
+
+2. Financial / UPI Safety Tips
+
+•	Never grant payment requests that are not known or collect requests on UPI apps.
+•	One should never send money without verifying UPI ID or the QR code.
+•	Should you not disclose your UPI PIN to anybody in any circumstance.
+
+3. Reporting Cybercrime
+
+•	Report on: National Cyber Crime Portal - cybercrime.gov.in.
+•	Helpline Number: 1930 (24x7 support)
