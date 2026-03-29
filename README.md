@@ -54,7 +54,7 @@ All deliverables are organized in this single GitHub repository.
 
 ### Task 5 — Cybercrime Awareness Case Study
 - **Module:** 5 (Cybercrime & Online Safety)
-- **Topic Chosen:** UPI/Online Payment Fraud
+- **Topic Chosen:** Phishing
 - **Deliverable:** (./task-5-cybercrime/)
 - **Summary:** Researched UPI fraud targeting Indian college students and 
   created an 8-point prevention checklist.
