@@ -56,7 +56,7 @@ All deliverables are organized in this single GitHub repository.
 - **Module:** 5 (Cybercrime & Online Safety)
 - **Topic Chosen:** Phishing
 - **Deliverable:**[View folder](./task-5-cybercrime/)
-- **Summary:** Researched UPI fraud targeting Indian college students and 
+- **Summary:** Researched Phishing targeting Indian college students and 
   created an 8-point prevention checklist.
 
 ---
