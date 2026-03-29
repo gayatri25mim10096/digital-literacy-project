@@ -28,7 +28,8 @@ All deliverables are organized in this single GitHub repository.
 ### Task 1 — Digital Literacy Awareness Infographic
 - **Module:** 1 (What is Digital Literacy?)
 - **Tool Used:** Canva
-- **Deliverable:**(./task-1-presentation/infographic.png)
+- **Deliverable:**
+![Infographic](./task-1-presentation/infographic.png)
 - **Summary:** Created a one-page infographic covering what digital literacy 
   is, useful tools for students, and safe internet practices.
 
