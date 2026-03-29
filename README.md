@@ -72,4 +72,4 @@ All deliverables are organized in this single GitHub repository.
 ---
 
 ## Project Report
-The full project report is available at:(./report/Project_Report.pdf)
+The full project report is available at:[View folder](./report/Project_Report.pdf)
