@@ -15,7 +15,7 @@
 
 ## Project Overview
 
-This repository is my **Digital Literacy Portfolio**, created as part of the 
+This repository is my **Digital Literacy Project**, created as part of the 
 CSE0001 course at VIT Bhopal University. As a Student Digital Ambassador, 
 I have completed five tasks covering digital literacy awareness, professional 
 online presence, coding platforms, email etiquette, and cybercrime awareness. 
