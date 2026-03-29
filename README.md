@@ -28,7 +28,7 @@ All deliverables are organized in this single GitHub repository.
 ### Task 1 — Digital Literacy Awareness Infographic
 - **Module:** 1 (What is Digital Literacy?)
 - **Tool Used:** Canva
-- **Deliverable:**(./task-1-presentation/infographic.png)
+- **Deliverable:**[View folder](./task-1-presentation/infographic.png)
 - **Summary:** Created a one-page infographic covering what digital literacy 
   is, useful tools for students, and safe internet practices.
 
@@ -55,7 +55,7 @@ All deliverables are organized in this single GitHub repository.
 ### Task 5 — Cybercrime Awareness Case Study
 - **Module:** 5 (Cybercrime & Online Safety)
 - **Topic Chosen:** Phishing
-- **Deliverable:**[View folder] (./task-5-cybercrime/)
+- **Deliverable:**[View folder](./task-5-cybercrime/)
 - **Summary:** Researched UPI fraud targeting Indian college students and 
   created an 8-point prevention checklist.
 
