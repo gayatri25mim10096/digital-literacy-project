@@ -35,7 +35,7 @@ All deliverables are organized in this single GitHub repository.
 ### Task 2 — Student Digital Portfolio
 - **Module:** 2 (Building a Professional Online Presence)
 - **Platforms Set Up:** GitHub, LinkedIn, Kaggle
-- **Deliverable:**(./task-2-portfolio/)
+- **Deliverable:** [View Folder](./task-2-portfolio/)
 - **Summary:** Created and configured professional profiles on three major 
   platforms used by employers and the academic community.
 
@@ -44,18 +44,18 @@ All deliverables are organized in this single GitHub repository.
 - **Platforms Used:** HackerRank, Google Forms
 - **Coding Challenge:** Completed "Solve Me First" on HackerRank
 - **Google Form Quiz:** (https://forms.gle/EZyxGPoNxFc8jsHcA)
-- **Deliverable:**(./task-3-platforms/)
+- **Deliverable:**[View folder](./task-3-platforms/)
 
 ### Task 4 — Professional Email & Etiquette Guide
 - **Module:** 4 (Digital Communication & Etiquette)
-- **Deliverable:**(./task-4-email-etiquette/)
+- **Deliverable:**[View folder](./task-4-email-etiquette/)
 - **Summary:** Drafted two professional emails and created a social media 
   Do's and Don'ts checklist for college students.
 
 ### Task 5 — Cybercrime Awareness Case Study
 - **Module:** 5 (Cybercrime & Online Safety)
 - **Topic Chosen:** Phishing
-- **Deliverable:** (./task-5-cybercrime/)
+- **Deliverable:**[View folder] (./task-5-cybercrime/)
 - **Summary:** Researched UPI fraud targeting Indian college students and 
   created an 8-point prevention checklist.
 
